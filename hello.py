@@ -1,2 +1,2 @@
 print('Hello, this is a repository for test.')
-print('And why did not it change?')
+print('Oh yeah, that is changed as my wish!')
